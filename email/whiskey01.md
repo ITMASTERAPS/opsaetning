@@ -1,5 +1,5 @@
 # Email-opsætningsoplysninger på Whiskey01-serveren
-Denne artikel er udarbejdet af Alexander Matzen <alexander.matzen@infrequent.group> for Infrequent Group IVS, Egevej 7, Oved, 6800 Varde.
+Denne artikel er udarbejdet af AM <<am@infrequent.group>> for Infrequent Group IVS, Egevej 7, Oved, 6800 Varde.
 
 ## Opsætningsoplysninger
 Erstat {email} med email-adressen, og {adgangskode} med den tilhørende adgangskode.
