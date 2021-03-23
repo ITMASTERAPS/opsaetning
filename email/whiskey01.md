@@ -10,13 +10,13 @@ Erstat {email} med email-adressen, og {adgangskode} med den tilhørende adgangsk
 | Adgangskode   | `{adgangskode}`          |
 | **Serveroplysninger**                    |
 | **IMAP**                                 |
-| Serveradresse | infrequent.net           |
+| Serveradresse | whiskey01.infrequent.net |
 | Port          | 993                      |
 | Sikkerhed     | TLS                      |
 | Brugernavn    | `{email}`                | 
 | Adgangskode   | `{adgangskode}`          |
 | **SMTP**                                 |
-| Serveradresse | infrequent.net           |
+| Serveradresse | whiskey01.infrequent.net |
 | Port          | 587                      |
 | Sikkerhed     | STARTTLS                 |
 | Brugernavn    | `{email}`                | 
