@@ -16,7 +16,7 @@ Erstat {email} med email-adressen, og {adgangskode} med den tilhørende adgangsk
 | Brugernavn    | `{email}`                | 
 | Adgangskode   | `{adgangskode}`          |
 | **SMTP**                                 |
-| Serveradresse | whiskey01.infrequent.net |
+| Serveradresse | mail.itmaster.net |
 | Port          | 587                      |
 | Kryptering     | SSL/TLS (Vælg StartTLS hvis muligt)                 |
 | Brugernavn    | `{email}`                | 
